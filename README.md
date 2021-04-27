@@ -2,7 +2,7 @@
 * 2021.3.19: NCNN Camera Demo https://github.com/dog-qiuqiu/Yolo-Fastest/tree/master/sample/ncnn
 * 2021.3.16: 修复分组卷积在某些旧架构GPU推理耗时异常的问题
 
-# :zap:Yolo-Fastest:zap: <a href="https://doi.org/10.5281/zenodo.4030332"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4030332.svg" alt="DOI"></a>
+# :zap:Yolo-Fastest:zap: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4719299.svg)](https://doi.org/10.5281/zenodo.4719299)
 * Simple, fast, compact, easy to transplant
 * A real-time target detection algorithm for all platforms
 * The fastest and smallest known universal target detection algorithm based on yolo
