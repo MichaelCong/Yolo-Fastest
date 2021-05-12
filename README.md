@@ -47,7 +47,7 @@ Intel|i7-8700|Ubuntu(x64)|ncnn|5.78ms
 * [Rk3399 needs to lock the cpu to the highest frequency](http://blog.sina.com.cn/s/blog_15d5280590102yarw.html), ncnn and enable bf16s optimization
 
 # Pascal VOC performance index comparison
-Network|Model Size|mAP(VOC 2017)|FLOPS
+Network|Model Size|mAP(VOC 2007)|FLOPS
 :---:|:---:|:---:|:---:
 Tiny YOLOv2|60.5MB|57.1%|6.97BFlops
 Tiny YOLOv3|33.4MB|58.4%|5.52BFlops
